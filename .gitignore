@@ -1,3 +1,15 @@
+
+
+#AAVE data
+main/Data_related/TwitterAAE-full-v1/
+main/Data_related/clean_AAVE/cleaned_data/
+
+
+
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
